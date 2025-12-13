@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omkarcloud/botasaurus/master/images/mascot.png" alt="botasaurus" />
-</p>
+
   <div align="center" style="margin-top: 0;">
   <h1>🤖 Botasaurus 🤖</h1>
   </div>
