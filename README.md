@@ -2762,20 +2762,3 @@ You may choose to read the following questions based on your interests:
 
 *Now, what are you waiting for? 🤔 Go and make something mastastic! 🚀*
 
-## Love It? [Star It! ⭐](https://github.com/omkarcloud/botasaurus)
-
-Become one of our amazing stargazers by giving us a star ⭐ on GitHub!
-
-It's just one click, but it means the world to me.
-
-<a href="https://github.com/omkarcloud/botasaurus/stargazers">
-    <img src="https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=omkarcloud&repo=botasaurus" alt="Stargazers for @omkarcloud/botasaurus">
-</a>
-
-
-## Disclaimer for Botasaurus Project
-
-> By using Botasaurus, you agree to comply with all applicable local and international laws related to data scraping, copyright, and privacy. The developers of Botasaurus are not responsible for any misuse of this software. It is the sole responsibility of the user to ensure adherence to all relevant laws regarding data scraping, copyright, and privacy, and to use Botasaurus in an ethical and legal manner.
-
-We take the concerns of the Botasaurus Project very seriously. For any inquiries or issues, please contact Chetan Jain at [chetan@omkar.cloud](mailto:chetan@omkar.cloud). We will take prompt and necessary action in response to your emails.
-
